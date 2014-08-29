@@ -1,4 +1,4 @@
-docker-centos6-lastestdevtools
-==============================
+docker-centos6-latestdevtools
+=============================
 
 Latest Binutils/GCC for Cent OS 6
